@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+p {
+    margin: 10px 0;
+}
+
+label{
+    display: block;
+}
+
+a {
+    display: block;
+}
+.delete-button {
+    display: flex;
+}
+.delete-button a {
+    margin-right: 10px;
+}
+
+.button-group {
+    display: flex;
+}
+
+.error {
+    color: red;
+}
+
+.error li {
+    list-style: none;
+}
+
+.error ul {
+    padding: 0;
+}
